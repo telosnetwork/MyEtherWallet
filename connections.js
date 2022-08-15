@@ -26,6 +26,8 @@ module.exports = [
   'wss://nodes.mewapi.io:443',
   'wss://rpc.gochain.io:443/ws',
   'wss://www.ethercluster.com:443',
+  'http://192.168.0.20:7000/evm',
+  'ws://192.168.0.20:7400/evm',
   // intercom stuff
   'api-iam.intercom.io:443',
   'https://api.zilliqa.com:443',

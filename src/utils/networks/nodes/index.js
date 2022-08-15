@@ -7,6 +7,7 @@ import ropmewws from './rop-mew-ws';
 import bscmewws from './bsc-mew-ws';
 import maticmewws from './matic-mew-ws';
 import gochain from './gochain-ws';
+import telos from './telos-mew-ws';
 
 export {
   etcethereumclassiccooperativeparityws,
@@ -17,5 +18,6 @@ export {
   ropmewws,
   bscmewws,
   maticmewws,
-  gochain
+  gochain,
+  telos
 };
